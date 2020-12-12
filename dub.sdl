@@ -1,0 +1,4 @@
+name "fetch-selections"
+description "dub fetch by dub.selections.json"
+authors "lempiji"
+license "MIT"

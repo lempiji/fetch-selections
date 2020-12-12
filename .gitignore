@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fetch-selections
+fetch-selections.so
+fetch-selections.dylib
+fetch-selections.dll
+fetch-selections.a
+fetch-selections.lib
+fetch-selections-test-*
+*.exe
+*.o
+*.obj
+*.lst
